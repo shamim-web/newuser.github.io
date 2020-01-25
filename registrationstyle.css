@@ -1,0 +1,66 @@
+*
+{
+	margin:0%;
+	padding:0%;
+}
+.div1
+{
+    width:100%;	
+}	
+.div2
+{
+	width:900px;
+	margin:auto;
+}
+body
+{
+	background-image:url("bc.jpg");
+	background-position:fixed;
+}
+table
+{
+	margin-left:260px;
+	margin-top:100px;
+    text-align:center;
+	width:300px;
+
+	
+}
+table tr
+{
+	
+	height:40px;
+	width:20px;
+
+}
+td
+{
+	width:100px;
+}
+input
+{
+	height:25px;
+	margin-left:10px;
+	width:250px;
+    border:1px solid white;
+	border-radius:9px;
+}
+#button
+{
+	margin-left:340px;
+	margin-top:50px;
+}
+h1
+{
+	margin-left:20px;
+	margin-top:30px;
+	text-align:center;
+	
+}
+
+
+
+
+
+
+

@@ -1,0 +1,47 @@
+*
+{
+	margin:0%;
+	padding:0%;
+}
+#bbb
+{
+	background-color:lightgray;
+}
+#tdiv
+{
+
+}
+#t
+{
+	
+	margin:auto;
+	margin-top:10px;
+	margin-bottom:10px;
+	text-align:center;
+	width:700px;
+	border-collapse:collapse;
+	
+	
+	
+}
+#t tr td
+{
+	border:1px solid black;
+	padding:5px;
+}
+th
+{
+	background-color:lightgreen;
+	padding:5px;
+	border:1px solid black;
+}	
+
+
+
+
+
+
+
+
+
+

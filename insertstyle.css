@@ -1,0 +1,37 @@
+*
+{
+	margin:0%;
+	padding:0%;
+}
+body
+{
+	background-image:url("bc.jpg");
+	background-position:fixed;
+}
+#smg
+{
+	
+}
+
+#anotherform
+{
+	width:50px;
+	text-decoration:none;
+}
+#ldiv
+{
+	margin-left:615px;
+	margin-top:50px;
+}
+h1
+{
+	margin-left:220px;
+	margin-top:30px;
+	text-align:center;	
+}
+#thanku
+{
+	
+	margin-left:500px;
+	margin-top:200px;
+}
